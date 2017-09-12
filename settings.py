@@ -24,7 +24,7 @@ schema = {
     'firstname': {
         'type': 'string',
         'minlength': 1,
-        'maxlength': 21,
+        'maxlength': 30,
     },
     'lastname': {
         'type': 'string',
