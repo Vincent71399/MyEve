@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="634b0d8e-a5df-4a98-9df8-578ca6393762" name="MyAWS" url="http://52.221.225.243">
+        <fileTransfer host="52.221.225.243" port="22" privateKey="$USER_HOME$/Downloads/MySecondInstance.pem" rootFolder="/home/ubuntu" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
